@@ -1,3 +1,5 @@
+使用前将/.github/workflows/Task.yml内- cron: '0 * * * 5'改为- cron: '0 * * * *'
+
 # 自用教程
 准备:Github账号 E5全局账号
 
