@@ -47,9 +47,9 @@ MailboxSettings.Read——MailboxSettings.ReadWrite.
  # Github Actions部分
    一个Github账号拥有一个2H7G的Linux Github Actions
    
-   Github Actions在一个仓库内最大支持20个workflow并行
+   Github Actions最大支持20个workflow并行
    
-   Github Actions每小时最多可以调用1000个API,若按本配置(45Api/h)食用,一个Github Actions可以支持20个账号的API调用
+   Github Actions每小时最多可以调用1000个API,若按本配置(45Api/h)食用,加上workflow限制一个Github Actions可以支持20个账号的API调用
 
 # 本配置默认设置
  执行API调用5次(45Api/次)
